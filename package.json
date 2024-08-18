@@ -38,9 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "- [Overview](#overview)\r - [Installation](#installation)\r - [Usage](#usage)\r - [Technologies Used](#technologies-used)",
-  "main": "index.js",
-  "author": "",
-  "license": "ISC"
+  }
 }
